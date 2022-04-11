@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/piano-react/static/css/main.ab620750.css",
+    "main.js": "/piano-react/static/js/main.561ec3ae.js",
+    "static/media/si.wav": "/piano-react/static/media/si.4288396617e35c5354a1.wav",
+    "static/media/la.wav": "/piano-react/static/media/la.5351f634828c8b69f8a3.wav",
+    "static/media/re.wav": "/piano-react/static/media/re.419c7811ba58a7baae48.wav",
+    "static/media/sol.wav": "/piano-react/static/media/sol.e5e79dda1ac596d106e3.wav",
+    "static/media/mi.wav": "/piano-react/static/media/mi.51e5702c85c61f1e42bf.wav",
+    "static/media/fa.wav": "/piano-react/static/media/fa.fdf4ed24b314a7bd845d.wav",
+    "static/media/do.wav": "/piano-react/static/media/do.a2508143c09c1239503d.wav",
+    "index.html": "/piano-react/index.html",
+    "main.ab620750.css.map": "/piano-react/static/css/main.ab620750.css.map",
+    "main.561ec3ae.js.map": "/piano-react/static/js/main.561ec3ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab620750.css",
+    "static/js/main.561ec3ae.js"
+  ]
+}
