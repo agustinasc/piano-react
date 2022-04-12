@@ -49,15 +49,15 @@ function App() {
 //2) Fn que actualice la vble
 //3) Valor inicial de la vble
 
-  const [click, setClick] = useState(0);
-  const [sonando, setSonando] = useState('');
+/*   const [click, setClick] = useState(0);
+ */  const [sonando, setSonando] = useState('');
 
-const handlerClickCount = () => {
+/* const handlerClickCount = () => {
   setClick(click + 1)
 }
-
-console.log(click);
-
+ */
+/* console.log(click);
+ */
 setTimeout(() => {
   setSonando('')
 },1000)
@@ -66,7 +66,7 @@ setTimeout(() => {
   return (
     <div>
       <div className="titulo">
-        <h1>Piano con React</h1>
+        <h1>Piano con React, subiendo cambios</h1>
         <h2>Hecho por Male</h2>
         <h3 className='esta-sonando'>{sonando}</h3>
         {/* <button onClick={handlerClickCount}>Has dado {click} clicks</button> */}
